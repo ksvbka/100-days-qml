@@ -1,5 +1,6 @@
 *.qmlc
 *.o
+*.jsc
 *.pro.user*
 *.qmlproject.user*
 *~
