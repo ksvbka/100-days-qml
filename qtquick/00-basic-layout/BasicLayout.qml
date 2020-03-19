@@ -78,7 +78,7 @@ Item {
             Text { id: listViewLabel; text: "ListView"; anchors.horizontalCenter: parent.horizontalCenter }
 
             ListView {
-                width: parent.width
+                width: contentItem.childrenRect.width
                 height: parent.height - listViewLabel.height - 30
                 anchors.centerIn: parent
                 anchors.horizontalCenter: parent.horizontalCenter
