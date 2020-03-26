@@ -2,6 +2,17 @@
 I started learning QML and kept going for 100 days. Each day, I tried to build something from what I learned. Most projects took a few days to complete.
 Below is my progression from day one to a hundred in the form of completed projects.
 
+## Project 03: Drawer
+![03-drawer](https://media.giphy.com/media/UWse770wiGewftmfRL/giphy.gif)
+
+I learned how to:
+
+- Using basic Drawer
+- Using ItemDelegate as delegate in Listview (support hightlight, click, text ...)
+- Using Loader to dynamic display page corresponding with item on side bar (Home, ScoreBar ..)
+- Some trick to implement separator and spacer in Listview
+- Some trick to maps listItem name with action when clicked.
+
 ## Project 02: Maps View
 
 ![02-maps-view](https://media.giphy.com/media/WqLL4ownaXfhwb2cKm/giphy.gif)
@@ -30,5 +41,5 @@ I learned how to:
 I learned how to
 
 - Using basic colum, grid, flow
--  Using basic layout
--  Model/View/Delegate concept. Implement basic ListView, Gridview, Pathview
+- Using basic layout
+- Model/View/Delegate concept. Implement basic ListView, Gridview, Pathview

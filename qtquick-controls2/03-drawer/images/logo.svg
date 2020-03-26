@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<path style="fill:#81C784;" d="M3.016,19.721l8.191,18.246l32.768-14.71L35.784,5.011L3.016,19.721z"/>
+<path style="fill:#1B5E20;" d="M3.016,19.721l8.191,18.246l32.768-14.71L35.784,5.011L3.016,19.721z M12.208,35.325L5.655,20.728  L34.782,7.653l6.553,14.597L12.208,35.325z"/>
+<ellipse transform="matrix(0.9123 -0.4096 0.4096 0.9123 -4.0234 15.2151)" style="fill:#1B5E20;" cx="33.508" cy="17" rx="1.996" ry="2"/>
+<ellipse transform="matrix(0.9123 -0.4095 0.4095 0.9123 -6.7399 11.5068)" style="fill:#1B5E20;" cx="23.495" cy="21.489" rx="5.986" ry="6"/>
+<ellipse transform="matrix(0.9123 -0.4095 0.4095 0.9123 -8.0383 4.4264)" style="fill:#1B5E20;" cx="6.315" cy="20.98" rx="2.494" ry="2.5"/>
+<ellipse transform="matrix(0.9123 -0.4095 0.4095 0.9123 -0.3761 14.8712)" style="fill:#1B5E20;" cx="34.532" cy="8.314" rx="2.494" ry="2.5"/>
+<ellipse transform="matrix(0.9123 -0.4095 0.4095 0.9123 -5.4413 18.587)" style="fill:#1B5E20;" cx="40.675" cy="21.997" rx="2.494" ry="2.5"/>
+<rect x="8" y="23" style="fill:#A5D6A7;" width="36" height="20"/>
+<path style="fill:#388E3C;" d="M8,23v20h36V23H8z M10,41V25h32v16H10z"/>
+<circle style="fill:#388E3C;" cx="15" cy="33" r="2"/>
+<circle style="fill:#388E3C;" cx="37" cy="33" r="2"/>
+<circle style="fill:#388E3C;" cx="26" cy="33" r="6"/>
+<path style="fill:#388E3C;" d="M43,38.511c-0.419-0.317-0.935-0.511-1.5-0.511c-1.381,0-2.5,1.119-2.5,2.5  c0,0.566,0.195,1.082,0.512,1.501H43V38.511z"/>
+<path style="fill:#388E3C;" d="M10.5,37.999c-0.565,0-1.081,0.195-1.5,0.511V42h3.488C12.805,41.581,13,41.065,13,40.499  C13,39.118,11.881,37.999,10.5,37.999z"/>
+<path style="fill:#388E3C;" d="M9,27.489C9.419,27.805,9.935,28,10.5,28c1.381,0,2.5-1.119,2.5-2.5c0-0.565-0.195-1.081-0.511-1.5H9  V27.489z"/>
+<path style="fill:#388E3C;" d="M41.5,28c0.565,0,1.081-0.195,1.5-0.511V24h-3.489C39.195,24.419,39,24.935,39,25.5  C39,26.881,40.119,28,41.5,28z"/>
+</svg>
