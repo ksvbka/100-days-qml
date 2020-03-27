@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="50px" viewBox="0 0 44 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Award badge</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Award-badge" transform="translate(2.000000, 0.000000)" stroke="#484848" stroke-width="4">
+            <ellipse id="Oval" cx="20" cy="19.5918367" rx="18" ry="17.5918367"></ellipse>
+            <ellipse id="Oval" transform="translate(20.000000, 19.591837) rotate(270.000000) translate(-20.000000, -19.591837) " cx="20" cy="19.5918367" rx="10.7346939" ry="11"></ellipse>
+            <polyline id="Path-46" stroke-linejoin="round" transform="translate(32.044582, 39.725979) scale(-1, 1) rotate(-330.000000) translate(-32.044582, -39.725979) " points="27.1723615 33.3164767 26.9678235 46.2238516 31.9864983 41.2561973 36.9168031 46.1354817 37.1213411 33.2281068"></polyline>
+            <polyline id="Path-46" stroke-linejoin="round" transform="translate(8.044582, 39.725979) rotate(-330.000000) translate(-8.044582, -39.725979) " points="3.17236152 33.3164767 2.96782351 46.2238516 7.98649827 41.2561973 12.9168031 46.1354817 13.1213411 33.2281068"></polyline>
+        </g>
+    </g>
+</svg>

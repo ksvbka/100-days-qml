@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="35px" viewBox="0 0 20 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Arrow Right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arrow-Right" transform="translate(10.500000, 17.500000) rotate(-90.000000) translate(-10.500000, -17.500000) translate(-7.000000, 7.000000)" fill="#484848">
+            <rect id="Rectangle" transform="translate(10.000000, 10.000000) rotate(-315.000000) translate(-10.000000, -10.000000) " x="-2" y="8" width="24" height="4" rx="2"></rect>
+            <path d="M14.4808293,8.2152757 L35.0902383,8.21762691 C36.1948447,8.21775293 37.0902383,9.11324867 37.0902383,10.2178551 C37.0902383,11.3222986 36.1949099,12.2176269 35.0904664,12.2176269 C35.0903904,12.2176269 35.0903143,12.2176269 35.0902383,12.2176269 L14.4808293,12.2152757 C13.3762229,12.2151497 12.4808293,11.3196539 12.4808293,10.2150475 C12.4808293,9.11060404 13.3761577,8.21527569 14.4806012,8.21527569 C14.4806772,8.21527569 14.4807533,8.2152757 14.4808293,8.2152757 Z" id="Rectangle" transform="translate(24.785534, 10.216451) scale(-1, 1) rotate(-315.000000) translate(-24.785534, -10.216451) "></path>
+        </g>
+    </g>
+</svg>

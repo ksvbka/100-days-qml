@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="52px" viewBox="0 0 36 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>Bluetooth</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bluetooth" transform="translate(2.000000, 2.000000)" stroke="#484848" stroke-width="4">
+            <polygon id="Path-52" stroke-linejoin="round" points="17.0666667 0 32 12 17.0666667 24"></polygon>
+            <polygon id="Path-52-Copy" stroke-linejoin="round" points="17.0666667 24 32 36 17.0666667 48"></polygon>
+            <line x1="15.9711616" y1="26.1318687" x2="2.1621717" y2="12.0499495" id="Path-53" stroke-linecap="round" transform="translate(9.066667, 19.090909) rotate(-15.000000) translate(-9.066667, -19.090909) "></line>
+            <line x1="15.9711616" y1="35.9500505" x2="2.1621717" y2="21.8681313" id="Path-53" stroke-linecap="round" transform="translate(9.066667, 28.909091) scale(-1, 1) rotate(-15.000000) translate(-9.066667, -28.909091) "></line>
+        </g>
+    </g>
+</svg>
