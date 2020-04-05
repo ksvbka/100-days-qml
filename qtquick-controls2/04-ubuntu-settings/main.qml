@@ -29,6 +29,7 @@ RowLayout {
             ListElement { title: "Search"; icon: "icons/search.svg"; source: "pages/Search.qml"; group: "utils" }
             ListElement { title: "Region & Language"; icon: "icons/region.svg"; source: "pages/RegionAndLanguage.qml"; group: "utils" }
             ListElement { title: "Sound"; icon: "icons/sound.svg"; source: "pages/Sound.qml"; group: "device" }
+            ListElement { title: "Power"; icon: "icons/power.svg"; source: "pages/Power.qml"; group: "device" }
             ListElement { title: "Details"; icon: "icons/details.svg";  submenu: true; group: "info" }
         }
 
