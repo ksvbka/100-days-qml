@@ -3,6 +3,8 @@ import QtQuick.Controls 2.2
 import QtQuick.Layouts 1.3
 import Qt.labs.settings 1.0
 
+import "../Style"
+
 PageBase {
     // anchors.fill: parent
     width: 899
